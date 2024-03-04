@@ -1,6 +1,6 @@
 # odin-recipes
 
-This is a very basic HMTL-only recipe website.
+This is a very basic HTML-only recipe website.
 
 The website consists of a main index page which has links to a few 
 recipes. The website isn't very pretty, but that is not the point. 
